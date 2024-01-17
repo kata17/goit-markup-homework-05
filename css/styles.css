@@ -200,7 +200,7 @@ background-color: rgba(46, 47, 66, 0.40);
     left: 50%;
     transform: translate(-50%, -50%) scale(1);
 width: 408px;
-min-width: 584px;
+min-height: 584px;
 background-color:#FCFCFC;
 }
 
