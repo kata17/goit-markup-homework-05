@@ -632,9 +632,16 @@ flex-direction: column;
 align-items: flex-start;
 margin-bottom: 8px;
 color: #8E8F99;
+outline: transparent;
 }
 .modal-input::placeholder{
     color: #4D5AE5;
+}
+.modal-input:focus {
+border-color: #4D5AE5;
+}
+.modal-input:focus + modal-icon{
+stroke: #4D5AE5;
 }
 .modal-label{
     color: #8E8F99;
@@ -647,6 +654,18 @@ line-height: 1.17; /* 116.667% */
 letter-spacing: 0.04em;
 margin-bottom: 8px;
 display: block;
+}
+.modal-icon{
+    fill: transparent;
+    stroke: #4D5AE5;
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+.modal-input-wrap{
+    position: relative;
 }
 .modal-close-btn {
     position: absolute;
