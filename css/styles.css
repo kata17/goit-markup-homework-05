@@ -221,6 +221,8 @@ font-style: normal;
 font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
+text-align: center;
+max-width: 360px;
 }
 .modal-close-btn {
     position: absolute;
