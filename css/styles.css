@@ -622,6 +622,7 @@ letter-spacing: 0.02em;
 text-align: center;
 max-width: 360px;
 margin-bottom: 16px;
+margin-top: 24px;
 }
 .modal-input{
     width: 360px;
@@ -631,8 +632,6 @@ flex-direction: column;
 align-items: flex-start;
 margin-bottom: 8px;
 color: #8E8F99;
-padding-left: 24px;
-padding-right: 24px;
 }
 .modal-input::placeholder{
     color: #4D5AE5;
