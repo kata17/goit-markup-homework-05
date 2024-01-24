@@ -623,6 +623,15 @@ text-align: center;
 max-width: 360px;
 margin-bottom: 16px;
 }
+.modal-input{
+    width: 100%;
+    border-radius: 4px;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+
+}
 .modal-close-btn {
     position: absolute;
     top: 24px;
