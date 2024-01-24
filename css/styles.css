@@ -624,7 +624,7 @@ max-width: 360px;
 margin-bottom: 16px;
 }
 .modal-input{
-    width: 100%;
+    width: 360px;
     border-radius: 4px;
     display: flex;
 flex-direction: column;
