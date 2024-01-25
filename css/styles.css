@@ -749,3 +749,8 @@ text-decoration-line: underline;
 stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
 margin-right: 8px;
 }
+
+.check-input:checked + .check-text span{
+background-color: #404BBF;
+border: none;
+}
