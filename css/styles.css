@@ -634,6 +634,8 @@ align-items: flex-start;
 margin-bottom: 8px;
 color: #8E8F99;
 outline: transparent;
+margin-right: 24px;
+margin-left: 24px;
 }
 .modal-input::placeholder{
     color: #4D5AE5;
