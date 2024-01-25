@@ -748,9 +748,14 @@ text-decoration-line: underline;
     stroke-width: 1px;
 stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
 margin-right: 8px;
+display: flex;
+align-items: center;
+justify-content: center;
+fill: transparent;
 }
 
 .check-input:checked + .check-text span{
 background-color: #404BBF;
 border: none;
+fill: #ffffff;
 }
