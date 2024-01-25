@@ -724,6 +724,9 @@ font-size: 12px;
 font-weight: 400;
 line-height: 1.17; /* 116.667% */
 letter-spacing: 0.04em;
+display: flex;
+align-items: center;
+
 }
 
 .check-text a {
@@ -737,4 +740,12 @@ font-weight: 400;
 line-height: 16px;
 letter-spacing: 0.04em;
 text-decoration-line: underline;
+}
+
+.check-text span {
+    width: 16px;
+    height: 16px;
+    stroke-width: 1px;
+stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
+margin-right: 8px;
 }
