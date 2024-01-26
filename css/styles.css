@@ -596,6 +596,12 @@ font-weight: 500;
 line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
         }
+
+        .footer-subscribe{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
         /* modal */
 .backdrop {
     position: fixed;
