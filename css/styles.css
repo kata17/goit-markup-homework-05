@@ -482,7 +482,8 @@ height: 40px;
 
 /* footer */
 .footer {
-   
+   padding-top: 50px;
+   padding-bottom: 132px;
         
         background:  #2E2F42;
         padding: 100px 0;
