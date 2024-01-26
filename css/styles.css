@@ -830,3 +830,12 @@ background-color: #404BBF;
 border: none;
 fill: #ffffff;
 }
+.button-modal{
+    display: inline-flex;
+padding: 16px 32px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 4px;
+background: var(--IRIS, #4D5AE5);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
