@@ -645,7 +645,7 @@ margin-left: 24px;
         }
 
 .footer-subscribe-icon{
-    
+
 }
         /* modal */
 .backdrop {
@@ -731,7 +731,10 @@ display: block;
     left: 16px;
     top: 50%;
     transform: translateY(-50%);
+}
 
+.modal-input-text{
+    background-color: #2E2F42;
 }
 .modal-input-wrap{
     position: relative;
