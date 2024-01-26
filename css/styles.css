@@ -626,7 +626,6 @@ letter-spacing: 0.04em;
 .footer-form-btn{
     color: var(--WHITE, #FFF);
     text-align: center;
-    
     /* Button Text */
     font-family: Roboto;
     font-size: 16px;
@@ -644,6 +643,10 @@ background:  #4D5AE5;
 border: none;
 margin-left: 24px;
         }
+
+.footer-subscribe-icon{
+    
+}
         /* modal */
 .backdrop {
     position: fixed;
