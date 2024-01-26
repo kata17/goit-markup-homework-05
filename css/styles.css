@@ -648,6 +648,7 @@ margin-left: 24px;
 
 }
         /* modal */
+
 .backdrop {
     position: fixed;
     top: 0;
@@ -695,7 +696,7 @@ letter-spacing: 0.02em;
 text-align: center;
 max-width: 360px;
 margin-bottom: 16px;
-margin-top: 72px;
+
 }
 .modal-input{
     width: 100%;
@@ -706,7 +707,9 @@ align-items: flex-start;
 margin-bottom: 8px;
 color: #8E8F99;
 outline: transparent;
-
+border: 1px solid var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
+height: 40px;
+padding-left: 38px;
 }
 .modal-input::placeholder{
     color: #4D5AE5;
@@ -730,8 +733,7 @@ margin-bottom: 8px;
 display: block;
 }
 .modal-icon{
-    fill: transparent;
-    stroke: #4D5AE5;
+    fill: #2E2F42;
     position: absolute;
     left: 16px;
     top: 50%;
@@ -849,3 +851,4 @@ position: absolute;
 left: 50%;
 transform: translateX(-50%);
 }
+
