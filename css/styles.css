@@ -722,7 +722,9 @@ border-color: #4D5AE5;
 }
 .modal-input:focus + modal-icon{
 stroke: #4D5AE5;
-}
+    fill: none;
+  }
+
 .modal-label{
     color: #8E8F99;
 /* Small Text */
