@@ -621,7 +621,7 @@ letter-spacing: 0.04em;
     color: var(--WHITE, #FFF);
     text-align: center;
     /* Button Text */
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -646,11 +646,11 @@ height: 40px;
     color:#ffffff;
 }
 .footer-subscribe-icon{
-
+margin-left: 16px;
 }
 .footer-form{
     display: flex;
-    gap: 8px;
+    gap: 24px;
 }
         /* modal */
 
