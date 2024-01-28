@@ -553,7 +553,7 @@ height: 40px;
     width: 40px;
     height: 40px;
 }
-.logo-box {
+.footer-container{
     color: #F4F4FD;
     margin-right: 120px;
     
@@ -582,10 +582,12 @@ height: 40px;
 
         /* subscribe */
         .footer-subscribe{
-
+            width: 453px;
+            height: 80px;
+            flex-shrink: 0;
         }
 
-        .footer-subscribe-title{
+        .form-subscribe-title{
             color: var(--WHITE, #FFF);
 
 /* Body Medium */
