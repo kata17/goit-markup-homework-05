@@ -581,7 +581,8 @@ height: 40px;
         }
 
         /* subscribe */
-        .footer-subscribe{
+
+.form-container{
             width: 453px;
             height: 80px;
             flex-shrink: 0;
