@@ -600,12 +600,7 @@ line-height: 1.5; /* 150% */
 letter-spacing: 0.02em;
         }
 
-        .footer-subscribe{
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
+    
         .footer-input{
             width: 313px;
             height: 40px;background-color: transparent;
@@ -646,7 +641,9 @@ background:  #4D5AE5;
 border: none;
 margin-left: 24px;
         }
-
+.footer-input::placeholder{
+    color:#FFF;
+}
 .footer-subscribe-icon{
 
 }
