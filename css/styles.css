@@ -728,7 +728,7 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 border-color: #4D5AE5;
 }
 .modal-input:focus + modal-icon{
-stroke: #4D5AE5;
+fill: #4D5AE5;
     fill: none;
   }
 
