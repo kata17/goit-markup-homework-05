@@ -879,11 +879,7 @@ background-color: #404bbf;
 border: none;
 fill: #4D5AE5;
 }
-.check-input + .check-text > .check-span{
-    background-color: #404bbf;
-    border: none;
-    fill: #4D5AE5; 
-}
+
 .button-modal{
     display: inline-flex;
 padding: 16px 32px;
