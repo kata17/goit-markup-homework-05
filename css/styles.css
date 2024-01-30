@@ -761,6 +761,9 @@ display: block;
 }
 .modal-field{
     position: relative;
+    margin-bottom: 8px;
+}
+.modal-field-comment{
     margin-bottom: 16px;
 }
 .modal-field-checkbox{
