@@ -862,7 +862,6 @@ stroke: var(--NAVY-BLUE-modal, rgba(46, 47, 66, 0.40));
 margin-right: 8px;
 align-items: center;
 justify-content: center;
-fill: transparent;
 fill: #F4F4FD;
 display: inline-flex; 
 }
